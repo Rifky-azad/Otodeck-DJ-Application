@@ -1,0 +1,1 @@
+A DJ mixing application built with Object-Oriented Programming principles and JUCE framework. Features include loading and playing multiple audio tracks, real-time mixing with volume and speed control, and a professional-style 5-point cue system. Includes a custom GUI with modular design, global state management, and persistent settings for a seamless user experience.
